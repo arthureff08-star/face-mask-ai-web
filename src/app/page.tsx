@@ -16,7 +16,7 @@ import {
   X,
 } from "lucide-react";
 
-const API_BASE = "http://127.0.0.1:8000";
+const API_BASE = "https://web-production-b050b.up.railway.app"
 
 const classes = [
   {
